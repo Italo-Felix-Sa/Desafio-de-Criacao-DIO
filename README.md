@@ -19,7 +19,7 @@ A base contém os seguintes campos:
 
 - Data da avaliação
 - Canal de atendimento
-- Texto da avaliação
+- Texto de avaliação
 - Serviço citado
 - Nota de satisfação *(escala de 1 a 5)*
 
