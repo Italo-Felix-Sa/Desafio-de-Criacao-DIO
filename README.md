@@ -16,10 +16,9 @@ A análise será usada por uma **equipe de experiência do cliente** para apoiar
 ## Dados Disponíveis
 
 A base contém os seguintes campos:
-
 - Data da avaliação
 - Canal de atendimento
-- Texto de avaliação
+- Texto da avaliação
 - Serviço citado
 - Nota de satisfação *(escala de 1 a 5)*
 
